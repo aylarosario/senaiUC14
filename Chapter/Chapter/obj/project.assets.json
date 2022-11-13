@@ -2129,11 +2129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aylar\\OneDrive\\Documentos\\SQL Server Management Studio\\Chapter2\\Chapter2\\Chapter.csproj",
+      "projectUniqueName": "C:\\Users\\aylar\\OneDrive\\Documentos\\GitHub\\senaiUC14\\Chapter\\Chapter\\Chapter.csproj",
       "projectName": "Chapter",
-      "projectPath": "C:\\Users\\aylar\\OneDrive\\Documentos\\SQL Server Management Studio\\Chapter2\\Chapter2\\Chapter.csproj",
+      "projectPath": "C:\\Users\\aylar\\OneDrive\\Documentos\\GitHub\\senaiUC14\\Chapter\\Chapter\\Chapter.csproj",
       "packagesPath": "C:\\Users\\aylar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aylar\\OneDrive\\Documentos\\SQL Server Management Studio\\Chapter2\\Chapter2\\obj\\",
+      "outputPath": "C:\\Users\\aylar\\OneDrive\\Documentos\\GitHub\\senaiUC14\\Chapter\\Chapter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

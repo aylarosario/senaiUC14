@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Chapter.Contexts
 {
-    public class ChapterContext: DbContext
+    public class ChapterContext : DbContext
     {
         public ChapterContext()
         {

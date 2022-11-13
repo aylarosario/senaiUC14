@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b5tShzgo+48lpUdZ9c6WfTCHbNYvSXGhD1ZwTHzUDSA+J/q0SccakVXVwTosWegcTnU8/A0z7WX2Z34yO9n/KA==",
+  "dgSpecHash": "fTnTHDJVZvpjRnvmA9OcoeKK3EFFzYgcXzCyMng4E1VHUmmDQ/dvmuh1k4vcFp7720/GonvdO71SixuttIoCXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aylar\\OneDrive\\Documentos\\SQL Server Management Studio\\Chapter2\\Chapter2\\Chapter.csproj",
+  "projectFilePath": "C:\\Users\\aylar\\OneDrive\\Documentos\\GitHub\\senaiUC14\\Chapter\\Chapter\\Chapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aylar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\aylar\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
