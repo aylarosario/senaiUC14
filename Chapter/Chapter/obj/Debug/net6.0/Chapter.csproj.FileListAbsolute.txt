@@ -58,3 +58,4 @@ C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC14\Chapter\Chapter\obj\Debug\ne
 C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC14\Chapter\Chapter\obj\Debug\net6.0\Chapter.pdb
 C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC14\Chapter\Chapter\obj\Debug\net6.0\Chapter.genruntimeconfig.cache
 C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC14\Chapter\Chapter\obj\Debug\net6.0\ref\Chapter.dll
+C:\Users\aylar\OneDrive\Documentos\GitHub\senaiUC14\Chapter\Chapter\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
